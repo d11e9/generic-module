@@ -1,7 +1,7 @@
 {
-  "name": "name"
+  "name": "name",
   "version": "0.0.0",
-  "description": "stuff"
+  "description": "stuff",
   "main": "index.js",
   "scripts": {
     "coverage": "istanbul cover ./test/index.js",
